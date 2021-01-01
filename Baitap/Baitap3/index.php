@@ -83,13 +83,14 @@ switch ($diemTrungBinh) {
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto' type='text/css' media='all' />
     <link rel="stylesheet" href="../../css/bootstrap.min.css" />
     <link rel="stylesheet" href="../../css/mdb.css" />
+    <link rel="stylesheet" href="../../css/animate.min.css" />
     <link rel="stylesheet" href="css/style.css" />
 
 </head>
 
 <body>
     <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark primary-color">
+        <nav class="navbar navbar-expand-lg navbar-dark primary-color animate__animated animate__fadeIn animate__slow">
 
             <a class="navbar-brand" href="#">Bài tập 3 - Lập trình web 2</a>
 
@@ -116,7 +117,7 @@ switch ($diemTrungBinh) {
 
         <div class="h2 text-center text-uppercase">Kết quả học tập</div>
         <hr />
-        <div class="py-5">
+        <div class="py-5 animate__animated animate__fadeIn animate__slow">
             <p class="note note-primary">
                 <strong>Họ và tên: </strong>Tống Công Danh<br />
                 <strong>MSSV: </strong>1988216
@@ -125,7 +126,7 @@ switch ($diemTrungBinh) {
 
 
         <!-- Table with panel -->
-        <div class="card card-cascade narrower">
+        <div class="card card-cascade narrower animate__animated animate__fadeIn animate__slow animate__delay-1s">
 
             <!--Card image-->
             <div class="view view-cascade gradient-card-header blue-gradient narrower py-2 mx-4 mb-3">
@@ -183,10 +184,10 @@ switch ($diemTrungBinh) {
         <!-- Table with panel -->
 
 
-        <div class="py-5">
+        <div class="py-5 animate__animated animate__fadeIn animate__fast animate__delay-3s">
             <p class="note note-<?= $class_note ?>">
                 <strong>Điểm trung bình: </strong><?= $diemTrungBinh ?><br />
-                <strong>Xếp loại: </strong><?= $ranking ?><br/>
+                <strong>Xếp loại: </strong><?= $ranking ?><br />
                 <?php if (isset($gif_name)) {
                 ?>
                     <img src="images/<?= $gif_name ?>" class="img-fluid" width="150">
@@ -197,6 +198,43 @@ switch ($diemTrungBinh) {
             </p>
         </div>
     </div>
+
+
+    <footer class="page-footer font-small indigo darken-4 py-4">
+
+        <!-- Footer Elements -->
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-6 d-flex justify-content-start">
+                    <!-- Copyright -->
+                    <div class="footer-copyright text-center bg-transparent">© 2021 Copyright:
+                        <a href="#"> Tống Công Danh - 1988216</a>
+                    </div>
+                    <!-- Copyright -->
+                </div>
+                <div class="col-md-6 d-flex justify-content-end">
+                    <ul class="list-unstyled d-flex mb-0">
+                        <li>
+                            <a class="mr-3" role="button"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                        <li>
+                            <a class="mr-3" role="button"><i class="fab fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a class="mr-3" role="button"><i class="fab fa-instagram"></i></a>
+                        </li>
+                        <li>
+                            <a class="" role="button"><i class="fab fa-youtube"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        <!-- Footer Elements -->
+
+    </footer>
     <script src="../../js/jquery-3.4.1.min.js"></script>
     <script src="../../js/bootstrap.min.js"></script>
     <script src="../../js/popper.min.js"></script>
