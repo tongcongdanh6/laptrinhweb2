@@ -7,7 +7,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>1988216 - Tống Công Danh</title>
   <!-- Font Awesome -->
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
   <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
@@ -33,8 +33,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
       <div class="container">
         <a class="navbar-brand" href="#">1988216 - Tống Công Danh</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
-          aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
@@ -43,7 +42,7 @@
               <a class="nav-link" href="#home">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#events" data-offset="80">Bài tập</a>
+              <a class="nav-link" href="#exercise" data-offset="80">Bài tập</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact" data-offset="80">Liên hệ</a>
@@ -130,7 +129,7 @@
                   <div class="step-content z-depth-1 ml-3 p-4 hoverable">
                     <h4 class="font-weight-bold"><a href="Baitap/Baitap3/">Bài tập 3</a></h4>
                     <p class="text-muted mt-3">
-                      <i class="far fa-clock-o" aria-hidden="true"></i> Deadline: Chủ Nhật, ngày 03/01/2021  |
+                      <i class="far fa-clock-o" aria-hidden="true"></i> Deadline: Chủ Nhật, ngày 03/01/2021 |
                       <strong class="dark-grey-text font-weight-bold">Xây dựng bảng điểm</strong>
                     </p>
 
@@ -141,8 +140,7 @@
                       <div class="col-md-3 col-3">
 
                         <div class="avatar mx-auto">
-                          <img src="https://www.iconninja.com/ico/128/html-web-coding-development-code-program-6392.ico" class="rounded img-fluid"
-                            alt="First sample avatar image">
+                          <img src="https://www.iconninja.com/ico/128/html-web-coding-development-code-program-6392.ico" class="rounded img-fluid" alt="First sample avatar image">
                         </div>
 
                       </div>
@@ -152,6 +150,46 @@
                       <div class="col-md-9 col-9">
 
                         <p class="mb-0">Sử dụng ngôn ngữ PHP để tạo random bảng điểm sinh viên. Và hiển thị xếp loại của sinh viên ấy.</p>
+                      </div>
+
+                    </div>
+                    <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+                </li>
+
+                <li class="timeline-inverted">
+                  <!--Section Title -->
+                  <a href="Baitap/Baitap3/">
+                    <span class="circle grey"></span>
+                  </a>
+
+                  <!-- Section Description -->
+                  <div class="step-content z-depth-1 ml-3 p-4 hoverable">
+                    <h4 class="font-weight-bold"><a href="Baitap/Baitap4/">Bài tập 4</a></h4>
+                    <p class="text-muted mt-3">
+                      <i class="far fa-clock-o" aria-hidden="true"></i> Deadline: Chủ Nhật, ngày 17/01/2021 |
+                      <strong class="dark-grey-text font-weight-bold">Xây dựng CV và random Quảng cáo</strong>
+                    </p>
+
+                    <!--Grid row-->
+                    <div class="row pt-2">
+
+                      <!--Grid column-->
+                      <div class="col-md-3 col-3">
+
+                        <div class="avatar mx-auto">
+                          <img src="https://www.iconninja.com/ico/128/html-web-coding-development-code-program-6392.ico" class="rounded img-fluid" alt="First sample avatar image">
+                        </div>
+
+                      </div>
+                      <!--Grid column-->
+
+                      <!--Grid column-->
+                      <div class="col-md-9 col-9">
+
+                        <p class="mb-0">Sử dụng ngôn ngữ PHP để tạo random quảng cáo dưới dạng Slider. Sử dụng kĩ thuật LTI1 để cắt template.</p>
                       </div>
 
                     </div>
@@ -248,8 +286,7 @@
 
                 <!-- Card header -->
                 <div class="card-header white z-depth-1 border-0 mb-1" role="tab" id="heading1">
-                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapse1" aria-expanded="true"
-                    aria-controls="collapse1">
+                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
                     <h5 class="mb-0 dark-grey-text">
                       #1 Lorem ipsum dolor sit amet.
                       <i class="fas fa-angle-down rotate-icon"></i>
@@ -570,7 +607,7 @@
     <!--Copyright-->
     <div class="footer-copyright py-3 text-center">
       <div class="container-fluid">
-       Tống Công Danh. MSSV: 1988216
+        Tống Công Danh. MSSV: 1988216
       </div>
     </div>
     <!--/Copyright-->
@@ -589,10 +626,8 @@
 
   <!-- Custom scripts -->
   <script>
-
     // Animation init
     new WOW().init();
-
   </script>
 
 </body>

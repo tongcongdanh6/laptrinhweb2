@@ -32,7 +32,7 @@
                                 <a class="white" href="#your-link">businessgrowth.com</a>
                             </li>
                             <li>
-                               <a class="white" href="#your-link">influencers.com</a>
+                                <a class="white" href="#your-link">influencers.com</a>
                             </li>
                             <li class="media">
                                 <a class="white" href="#your-link">optimizer.net</a>
@@ -58,7 +58,7 @@
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-    </div> <!-- end of footer -->  
+    </div> <!-- end of footer -->
     <!-- end of footer -->
 
 
@@ -71,10 +71,10 @@
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
-    </div> <!-- end of copyright --> 
+    </div> <!-- end of copyright -->
     <!-- end of copyright -->
-    
-    	
+
+
     <!-- Scripts -->
     <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
     <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
@@ -86,5 +86,8 @@
     <script src="js/isotope.pkgd.min.js"></script> <!-- Isotope for filter -->
     <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
     <script src="js/scripts.js"></script> <!-- Custom scripts -->
-</body>
-</html>
+    <script src="js/cv/theia-sticky-sidebar.js"></script>
+    <script src="js/cv/scripts.js"></script>
+    </body>
+
+    </html>
