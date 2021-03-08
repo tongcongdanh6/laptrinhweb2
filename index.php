@@ -240,6 +240,87 @@
                   <!--Grid row-->
                 </li>
 
+
+                <li class="timeline-inverted">
+                  <!--Section Title -->
+                  <a href="Baitap/Baitap6a/">
+                    <span class="circle grey"></span>
+                  </a>
+
+                  <!-- Section Description -->
+                  <div class="step-content z-depth-1 ml-3 p-4 hoverable">
+                    <h4 class="font-weight-bold"><a href="Baitap/Baitap6a/">Bài tập 6a</a></h4>
+                    <p class="text-muted mt-3">
+                      <i class="far fa-clock-o" aria-hidden="true"></i> Deadline: Thứ 2, ngày 08/03/2021 |
+                      <strong class="dark-grey-text font-weight-bold">Kỹ thuật TLI2</strong>
+                    </p>
+
+                    <!--Grid row-->
+                    <div class="row pt-2">
+
+                      <!--Grid column-->
+                      <div class="col-md-3 col-3">
+
+                        <div class="avatar mx-auto">
+                          <img src="https://www.iconninja.com/ico/128/html-web-coding-development-code-program-6392.ico" class="rounded img-fluid" alt="First sample avatar image">
+                        </div>
+
+                      </div>
+                      <!--Grid column-->
+
+                      <!--Grid column-->
+                      <div class="col-md-9 col-9">
+
+                        <p class="mb-0">Sử dụng kĩ thuật LTI2.</p>
+                      </div>
+
+                    </div>
+                    <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+                </li>
+
+                <li>
+                  <!--Section Title -->
+                  <a href="Baitap/Baitap6b/">
+                    <span class="circle grey"></span>
+                  </a>
+
+                  <!-- Section Description -->
+                  <div class="step-content z-depth-1 ml-3 p-4 hoverable">
+                    <h4 class="font-weight-bold"><a href="Baitap/Baitap6b/">Bài tập 6b</a></h4>
+                    <p class="text-muted mt-3">
+                      <i class="far fa-clock-o" aria-hidden="true"></i> Deadline: Thứ 2, ngày 08/03/2021 |
+                      <strong class="dark-grey-text font-weight-bold">Kỹ thuật TLI2</strong>
+                    </p>
+
+                    <!--Grid row-->
+                    <div class="row pt-2">
+
+                      <!--Grid column-->
+                      <div class="col-md-3 col-3">
+
+                        <div class="avatar mx-auto">
+                          <img src="https://www.iconninja.com/ico/128/html-web-coding-development-code-program-6392.ico" class="rounded img-fluid" alt="First sample avatar image">
+                        </div>
+
+                      </div>
+                      <!--Grid column-->
+
+                      <!--Grid column-->
+                      <div class="col-md-9 col-9">
+
+                        <p class="mb-0">Sử dụng kĩ thuật LTI2.</p>
+                      </div>
+
+                    </div>
+                    <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+                </li>
+
               </ul>
               <!-- Timeline Wrapper -->
             </div>
